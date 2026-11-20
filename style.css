@@ -86,9 +86,10 @@ body{
 
 .main {
     width: 1440px;
+    
   background-image: 
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-    url('assets/images/unsplash_-2vD8lIhdnw.svg');
+    url('images/unsplash_-2vD8lIhdnw.svg');
     height: 764px; 
   background-size: cover;
   background-position: center;
@@ -117,6 +118,7 @@ body{
 .about-section {
    display: flex;
     margin: 0 auto;
+    
    width: 1296px;
    height: 404px;
     margin-top: 100px;
@@ -146,6 +148,7 @@ body{
     border-radius: 8px;}
     
 .why-v{
+  
     width: 1040px;
     height: 555px;
     margin: 0 auto;
@@ -158,6 +161,7 @@ body{
     
 }
 .features-container {
+ 
   width: 1014px;
   height: 324px;
   margin: 0 auto;
@@ -205,6 +209,7 @@ body{
 }
 
 .testimonial {
+  
     width: 1440px;
     height: 492px;
     margin: 0 auto;
@@ -234,6 +239,7 @@ body{
 }
 
 .join-chatter {
+  
     width: 1127px;
     height: 412px;
     margin: 0 auto;
